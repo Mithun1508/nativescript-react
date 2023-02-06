@@ -11,7 +11,7 @@ I'm always hanging out in the #react chat of the NativeScript Slack if you'd lik
 
 ## Setup
 # Make sure that you have `tns` (the NativeScript CLI) installed:
-#   https://docs.nativescript.org/start/quick-setup
+ REFERENCES:   https://docs.nativescript.org/start/quick-setup
 
 tns create myApp --react
 
