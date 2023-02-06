@@ -87,22 +87,22 @@ We have a premium version of this mobile application template that saves you eve
 
 ## Getting Started
 1. Clone and Install
-2. 
-# Clone the repo
-git clone https://github.com/Mithun1508/nativescript-react 
 
-# Navigate to clonned folder and Install dependencies
+2.  Clone the repo git clone https://github.com/Mithun1508/nativescript-react 
+
+3. Navigate to clonned folder and Install dependencies
 cd nativescript-react && yarn install
 
-# Install Pods
+4. Install Pods
 cd ios && pod install
+
 2. Open RNS in your iOS simulator
+
 Run this command to start the development server and to start your app on iOS simulator:
 
 yarn run:ios
 
 Or, if you prefer Android:
-
 
 yarn run:android
 ## That's it! Cool, right?
