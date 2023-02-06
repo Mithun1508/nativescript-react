@@ -1,7 +1,7 @@
 ![Screenshot 2023-02-06 184905](https://user-images.githubusercontent.com/93249038/216981955-0446ddee-409d-4379-b433-07d5506c9728.png)
 
 
-![Screenshot_2023-02-06-18-44-50-64_7441a990aaa174fbb591de199bcb07fe](https://user-images.githubusercontent.com/93249038/216982028-aa9a4836-cc5c-4d39-9d5c-737f7ddd706e.jpg)
+![2](https://user-images.githubusercontent.com/93249038/216983792-f8f236e3-4291-4b1e-b801-c5056d427f0d.jpg)
 
 
 React NativeScript is A React renderer for NativeScript, allowing you to write a NativeScript app using the familiar React style.
