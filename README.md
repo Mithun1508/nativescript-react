@@ -1,3 +1,23 @@
+# Introduction
+You're viewing the new and updated version of React Native Starter, previous version can be found under the v1 branch
+
+A powerful react native starter template that bootstraps development of your mobile application. React Native Starter is a mobile application template with lots of built-in components like sidebar, navigation, form elements, etc - all you need to start building your mobile app faster. Check out live demo on App Store, Google Play.
+
+## primary technologies:
+1) react
+
+2) react-native
+
+3) react-navigation
+
+4) redux
+
+5) eslint
+
+6) i18n
+
+Application structured in a way, which we find most efficient in both short and long term projects. The main intention of the current structure is to keep logical components close to each other and define clear structure for the common things, such as navigation, store, api wrappers, reducers, action creators, store selectors
+
 ![Screenshot 2023-02-06 184905](https://user-images.githubusercontent.com/93249038/216981955-0446ddee-409d-4379-b433-07d5506c9728.png)
 
 
@@ -7,32 +27,61 @@ React NativeScript is A React renderer for NativeScript, allowing you to write a
 
 I'm always hanging out in the #react chat of the NativeScript Slack if you'd like to talk about this project.
 
+## What's inside
+1 Always up-to-date React Native scaffolding
+
+2 UI/UX Design from industry experts
+
+3 Modular and well-documented structure for application code
+
+4 Redux for state management
+
+5 React Navigation for simple navigation
+
+6 Disk-persisted application state caching
+
+7 More than 16 Ready-to-use Pages
+
+## Want more?
+We have a premium version of this mobile application template that saves you even more time and money and comes with advanced features:
+
+1 Premium RED color scheme
+
+2 More than 5 additional screens (such as chat, profile, product item, etc.)
+
+3 Contains an extended charting library to visualize all the data you need
+
+4 Premium support and updates included
+
+## Getting Started
+1. Clone and Install
+2. 
+# Clone the repo
+git clone https://github.com/Mithun1508/nativescript-react 
+
+# Navigate to clonned folder and Install dependencies
+cd nativescript-react && yarn install
+
+# Install Pods
+cd ios && pod install
+2. Open RNS in your iOS simulator
+Run this command to start the development server and to start your app on iOS simulator:
+
+yarn run:ios
+
+Or, if you prefer Android:
+
+
+yarn run:android
+## That's it! Cool, right?
+
+
 ## Setup
  Make sure that you have `tns` (the NativeScript CLI) installed:
  
  REFERENCES:   https://docs.nativescript.org/start/quick-setup
 
-tns create myApp --react
-
-cd myApp
-
-npm install
-
-# The Preview and Playground apps are awaiting an update from
-
-# RNS v0 to v1, so the `tns preview` workflow isn't supported
-
-# yet. We're working on it. – 18th July 2020
-
-# tns preview
-
-# or
-
-tns run ios
-
-# or
-
-tns run android
+For purchasing: https://reactnativestarter.com/
 
 ## Documentation
 1) https://react-nativescript.netlify.app/
@@ -64,7 +113,9 @@ React NativeScript uses the same plugins API as NativeScript Vue and NativeScrip
 ![2](https://user-images.githubusercontent.com/93249038/216986389-c1017de6-863d-4dd5-944b-00ac9a21ad4e.png)
 
 
-
 # Is it production-ready?
 
 It's based on React, NativeScript Core, and NativeScript Vue, which are each individually production-ready. Make of that what you will.
+
+# DEMO
+https://play.google.com/store/apps/details?id=com.reactnativestarter.upd
