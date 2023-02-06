@@ -16,6 +16,38 @@ A powerful react native starter template that bootstraps development of your mob
 
 6) i18n
 
+The project is super helpful to kick-start your next project, as it provides a lot of the common tools you may reach for, all ready to go. Specifically:
+
+## Flux architecture
+1) Redux
+
+2) Redux Wrapper: Rematch
+
+3) Routing and navigation
+
+## React Native Router Flux for native mobile navigation
+
+1)Data Caching / Offline
+
+2)Redux Persist
+
+3)UI Toolkit/s
+
+4)Native Base for native mobile
+
+5)Code Linting with
+
+6)Airbnb's JS Linting guidelines
+
+7)Deployment strategy
+
+8)Both manual and automated strategies
+
+9)Splash Screen + Assets
+
+10)React Native Splash Screen
+
+
 Application structured in a way, which we find most efficient in both short and long term projects. The main intention of the current structure is to keep logical components close to each other and define clear structure for the common things, such as navigation, store, api wrappers, reducers, action creators, store selectors
 
 ![Screenshot 2023-02-06 184905](https://user-images.githubusercontent.com/93249038/216981955-0446ddee-409d-4379-b433-07d5506c9728.png)
