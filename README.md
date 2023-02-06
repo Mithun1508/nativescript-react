@@ -56,6 +56,12 @@ React NativeScript uses the same plugins API as NativeScript Vue and NativeScrip
 
 ## Why not just use React Native?
 
+![1](https://user-images.githubusercontent.com/93249038/216986355-e242d15a-faab-4ad0-89ec-363ec27ec74e.png)
+
+![2](https://user-images.githubusercontent.com/93249038/216986389-c1017de6-863d-4dd5-944b-00ac9a21ad4e.png)
+
+
+
 # Is it production-ready?
 
 It's based on React, NativeScript Core, and NativeScript Vue, which are each individually production-ready. Make of that what you will.
